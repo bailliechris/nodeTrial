@@ -1,0 +1,21 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "The First Attempt",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "CBA",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node": "^13.6.0",
+    "path": "^0.12.7",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
